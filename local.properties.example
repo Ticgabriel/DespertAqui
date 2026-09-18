@@ -1,0 +1,4 @@
+# Copie este arquivo para local.properties e ajuste para sua máquina.
+# local.properties não deve ser enviado ao GitHub.
+sdk.dir=C\:\\caminho\\para\\Android\\Sdk
+MAPS_API_KEY=SUA_CHAVE_AQUI
