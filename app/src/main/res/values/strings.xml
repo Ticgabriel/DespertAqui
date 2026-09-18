@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DespertAqui</string>
+    <string name="setup_title">Para onde vamos?</string>
+    <string name="setup_subtitle">Configure seu destino e ative o alarme de aproximação.</string>
+    <string name="destination_name_label">Nome do destino</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="radius_label">Raio de aviso</string>
+    <string name="custom_radius_label">Raio personalizado</string>
+    <string name="test_alert_button">Testar som do alerta (3s)</string>
+    <string name="start_journey_button">Iniciar viagem</string>
+    <string name="stop_journey_button">Encerrar viagem</string>
+    <string name="stop_alarm_button">PARAR ALARME</string>
+    <string name="resume_journey_button">Retomar viagem</string>
+    <string name="new_journey_button">Nova viagem</string>
+    <string name="search_destination_placeholder">Buscar endereço ou local&#8230;</string>
+    <string name="manual_coordinates_toggle">Inserir coordenadas manualmente</string>
+    <string name="manual_coordinates_hide">Ocultar coordenadas manuais</string>
+    <string name="map_hint_label">Toque no mapa ou busque acima para definir o destino</string>
+    <string name="nav_home">Início</string>
+    <string name="nav_alarms">Alarmes</string>
+    <string name="nav_library">Locais</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="action_create_alarm">Criar alarme</string>
+    <string name="action_start_now">Iniciar agora</string>
+    <string name="action_stop_alarm">Desligar alarme</string>
+    <string name="action_rest_mode">Modo Descanso</string>
+    <string name="channel_monitoring_name">Acompanhamento de Trajeto</string>
+    <string name="channel_arrival_name">Alerta de Chegada</string>
+    <string name="channel_precaution_name">Aviso de Precaução</string>
+</resources>
